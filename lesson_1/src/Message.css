@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background: gray;
+    border: solid 1px red;
+}
+
+.title {
+    color: blue;
+}
+
